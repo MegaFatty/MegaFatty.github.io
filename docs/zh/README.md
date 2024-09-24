@@ -7,9 +7,8 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      name: 你好，我是Chris Liu。
+      text: 我没有你想的那么简单。
       actions:
         -
           theme: brand
@@ -18,5 +17,5 @@ config:
         -
           theme: alt
           text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          link: https://github.com/MegaFatty
 ---
