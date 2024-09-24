@@ -34,11 +34,11 @@ export default defineThemeConfig({
     '/zh/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: '刘子龙',
-        description: '',
-        // circle: true,
-        // location: '',
-        // organization: '',
+        name: 'Chris Liu',
+        description: '他日若遂凌云志, 敢笑黄巢不丈夫。',
+        circle: true,
+        location: '多伦多，加拿大',
+        organization: 'Growup Internet Ltd.',
       },
 
       navbar: zhNavbar,
