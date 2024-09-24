@@ -15,6 +15,10 @@ config:
           text: Blog
           link: /blog/
         -
+          theme: brand
+          text: About Me
+          link: /about-me/
+        -
           theme: alt
           text: Github →
           link: https://github.com/MegaFatty

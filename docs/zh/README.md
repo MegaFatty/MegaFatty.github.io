@@ -15,6 +15,10 @@ config:
           text: 博客
           link: /zh/blog/
         -
+          theme: brand
+          text: 个人介绍
+          link: /zh/about-me/
+        -
           theme: alt
           text: Github →
           link: https://github.com/MegaFatty
