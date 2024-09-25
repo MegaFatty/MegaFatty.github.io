@@ -7,7 +7,7 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Hello, I'm Chris Liu.
+      name: Hello, I'm Chris Liu
       text: Inside I am more.
       actions:
         -
